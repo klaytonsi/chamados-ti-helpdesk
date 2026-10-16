@@ -1,0 +1,23 @@
+# EN: Secrets / PT: Segredos
+.env
+
+# EN: Generated data and databases (never commit) / PT: Dados e bancos gerados (nunca commitar)
+*.sqlite
+*.sqlite3
+*.db
+data/*
+!data/.gitkeep
+
+# EN: Python / PT: Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# EN: Notebooks / PT: Notebooks
+.ipynb_checkpoints/
+
+# EN: OS and editors / PT: Sistema e editores
+.DS_Store
+.vscode/
+.idea/
