@@ -25,7 +25,6 @@ Jovem Aprendiz em TI e, no futuro, evoluir para Analista de Dados.
 - SQLite — banco de dados (criado pelo próprio notebook, do zero)
 - SQL — todas as consultas, documentadas em `sql/consultas.sql`
 - Plotly — gráficos interativos dentro do notebook
-- Looker Studio — só para gerar os prints do dashboard em `images/` (gratuito)
 - Jupyter Notebook, publicado no Kaggle
 
 Nenhuma ferramenta paga foi usada.
@@ -134,7 +133,6 @@ and, later, grow into a Data Analyst.
 - SQLite — database (created by the notebook itself, from scratch)
 - SQL — all queries, documented in `sql/consultas.sql`
 - Plotly — interactive charts inside the notebook
-- Looker Studio — only to generate the dashboard screenshots in `images/` (free)
 - Jupyter Notebook, published on Kaggle
 
 No paid tool was used.
