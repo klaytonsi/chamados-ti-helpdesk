@@ -56,7 +56,7 @@ pessoas ou empresas é usado. Campos: `id`, `categoria`, `prioridade`,
    python src/gerar_dados.py
    ```
 
-Também disponível pronto para rodar no Kaggle: *(link do notebook publicado)*.
+Também disponível pronto para rodar no Kaggle: https://www.kaggle.com/code/klaytonsilva/an-lise-de-chamados-de-ti-helpdesk-sql-e-plot
 
 ## Estrutura de pastas
 
@@ -165,7 +165,7 @@ people or companies is used. Fields: `id`, `categoria`, `prioridade`,
    python src/gerar_dados.py
    ```
 
-Also available ready to run on Kaggle: *(published notebook link)*.
+Also available ready to run on Kaggle: https://www.kaggle.com/code/klaytonsilva/an-lise-de-chamados-de-ti-helpdesk-sql-e-plot
 
 ## Folder structure
 
